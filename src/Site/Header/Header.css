@@ -1,0 +1,43 @@
+
+.imgP{
+    width: 30%;
+    border: 4px solid black;
+    border-radius: 10px;
+}
+
+.logoP{
+    padding: 0%;
+    border-radius: 10px;
+}
+
+.top{
+    margin-top: 4%;
+}
+
+.botones{
+    margin-left: 1%;
+    margin-right: 1%;
+}
+
+.bnt{
+    width: 100%;
+}
+
+.centrar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.txtP{
+    text-align: center;
+    margin-top: 1%;
+}
+
+@media screen and (max-width: 600px) {
+    .imgP{
+        width: 50%;
+        border: 4px solid black;
+        border-radius: 10px;
+    }
+}

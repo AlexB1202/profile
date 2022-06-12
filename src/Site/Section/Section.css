@@ -1,0 +1,11 @@
+.topS{
+    margin-top: 2%;
+    background-color: white;
+}
+
+
+@media screen and (max-width: 600px) {
+    .topS{
+        margin-top: 5%;
+    }
+}
